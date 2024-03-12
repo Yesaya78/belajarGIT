@@ -7,4 +7,12 @@
  6. Tugas-php
  7. Tugas-finalProject
  Daftar perintah GiT
- …
+git clone
+cd
+git checkout
+touch
+git add
+git commit -m
+git merge
+git push
+
